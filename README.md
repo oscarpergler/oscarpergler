@@ -3,4 +3,6 @@
 - 🔭 I’m currently working on a MERN-stack booking site :)
 - 🌱 I’m currently learning Spring Boot, GraalVM, Docker and software engineering architectures
 
-<iframe src="https://giphy.com/embed/3oEduN3VLFK87V2XuM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/food-dennys-diner-3oEduN3VLFK87V2XuM">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/3oEduN3VLFK87V2XuM/…4q3m2zc1jgvy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>

@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on a MERN-stack booking site :)
-- 🌱 I’m currently learning Spring Boot, GraalVM, Docker and software engineering architectures
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif">
 </div>

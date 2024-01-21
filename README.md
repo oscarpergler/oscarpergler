@@ -6,4 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div>Working on a MERN-stack booking project towards real end-users. :)</div>
+<ul>
+  <li>Working on a MERN-stack booking project towards real end-users. :)</li>
+  <li>Developing a prototype-scale microservice in Spring Boot for my final year project</li>
+</ul>

@@ -1,5 +1,6 @@
 <ul>
   <li>Working on a MERN-stack booking project</li>
+  <li>Working on an online chess game (Vue.js & Spring Boot)</li>
   <li>Developing prototype-scale microservices with Spring Boot & Docker for my final year project</li>
 </ul>
 <div align="center">

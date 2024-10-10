@@ -4,6 +4,7 @@ Past or ongoing projects:
   <li>Online chess game (Vue.js & Spring Boot)</li>
   <li>Developing prototype-scale microservices with Spring Boot & Docker for my final year project</li>
   <li>Discord bot - Elo tracker & calculator for custom lobbies</li>
+  <li>ChatGPT Wrapper "AI Portfolio"</li>
 </ul>
 <div align="center">
   <a href="https://github.com/oscarpergler" align="center">

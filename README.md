@@ -1,7 +1,9 @@
+Past or ongoing projects:
 <ul>
-  <li>Working on a MERN-stack booking project</li>
-  <li>Working on an online chess game (Vue.js & Spring Boot)</li>
+  <li>MERN-stack booking project</li>
+  <li>Online chess game (Vue.js & Spring Boot)</li>
   <li>Developing prototype-scale microservices with Spring Boot & Docker for my final year project</li>
+  <li>Discord bot - Elo tracker & calculator for custom lobbies</li>
 </ul>
 <div align="center">
   <a href="https://github.com/oscarpergler" align="center">
